@@ -44,7 +44,7 @@ This application demonstrates how to build a secure, map-based React application
 
 ## Demo
 
-[![React Map Application Demo](./src/assets/react.svg)](https://codesandbox.io/p/devbox/tjq8jv?migrateFrom=zjn239)
+[![React Map Application Demo](./src/assets/react.svg)](https://codesandbox.io/p/devbox/nice-lake-tjq8jv)
 
 
 ---
