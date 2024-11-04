@@ -204,7 +204,7 @@ Contributions are welcome! Please follow these steps:
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/your-username/react-map-application.git
+   git clone https://github.com/Implication-web-components/react-map-application.git
    ```
 
 3. **Create a branch**
