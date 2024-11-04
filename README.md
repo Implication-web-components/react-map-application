@@ -64,7 +64,7 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/react-map-application.git
+   git clone https://github.com/Implication-web-components/react-map-application.git
    cd react-map-application
    ```
 
@@ -204,7 +204,7 @@ Contributions are welcome! Please follow these steps:
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/Implication-web-components/react-map-application.git
+   git clone https://github.com/your-username/react-map-application.git
    ```
 
 3. **Create a branch**
